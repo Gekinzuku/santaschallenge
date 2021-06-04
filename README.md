@@ -1,7 +1,6 @@
 # Santa's Challenge
 Santa's Challenge, a Chip's Challenge clone for Nintendo DS
 
-**Info**
 Type: Puzzle, adventure.
 
 Awards: 2nd place in the "Third Annual Christmas Game Coding Competition"
