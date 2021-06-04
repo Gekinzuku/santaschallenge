@@ -1,0 +1,34 @@
+PAGfx Converter, by Mollusk     www.palib.com
+If you have suggestions, problems, or anything, please mail me at mollusk@palib.info
+
+Converting PAGfx.ini
+Transparent Color : Magenta
+
+5 sprites :
+  enemies : 256colors, 32x32, Pal : enemies_Pal, -> enemies_Sprite
+  floor : 256colors, 32x672, Pal : floor_Pal, -> floor_Sprite
+  items : 256colors, 32x512, Pal : items_Pal, -> items_Sprite
+  numbers : 256colors, 32x320, Pal : numbers_Pal, -> numbers_Sprite
+  player : 256colors, 32x128, Pal : player_Pal, -> player_Sprite
+
+9 backgrounds :
+  about : 16bit, 256x192, -> about_Bitmap
+  credits0 : 16bit, 256x192, -> credits0_Bitmap
+  credits1 : 16bit, 256x192, -> credits1_Bitmap
+  load : 16bit, 256x192, -> load_Bitmap
+  pause : 16bit, 256x192, -> pause_Bitmap
+  save : 16bit, 256x192, -> save_Bitmap
+  splash : 16bit, 256x192, -> splash_Bitmap
+  title0 : 16bit, 256x192, -> title0_Bitmap
+  title1 : 16bit, 256x192, -> title1_Bitmap
+
+5 palettes :
+  enemies_Pal, 3 colors
+  floor_Pal, 19 colors
+  items_Pal, 44 colors
+  numbers_Pal, 17 colors
+  player_Pal, 12 colors
+
+Converted in 0 minutes 1 seconds
+
+Finished !
