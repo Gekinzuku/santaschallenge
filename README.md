@@ -7,6 +7,12 @@ Awards: 2nd place in the "Third Annual Christmas Game Coding Competition"
 
 Released: January 22, 2008.
 
+![title](https://raw.githubusercontent.com/geekylink/santaschallenge/main/screenshots/title-screen.png)
+![level 1](https://raw.githubusercontent.com/geekylink/santaschallenge/main/screenshots/level1.png)
+![level 3](https://raw.githubusercontent.com/geekylink/santaschallenge/main/screenshots/level3.png)
+![credits](https://raw.githubusercontent.com/geekylink/santaschallenge/main/screenshots/credits.png)
+![about](https://raw.githubusercontent.com/geekylink/santaschallenge/main/screenshots/about.png)
+
 **Story:**
 It is December, and Santa is preparing to give his toys to all the children of the world. But he got lost on December first when his sled crashed in the North Pole woodlands. Now he needs to find his way back in twenty-four days or else Christmas will be ruined for all the boys and girls of the world! To return, Santa must find and return as many presents as he can to his sled, by giving them to his elf friend, and then passing the level exit. But Santa must beware for lots of sneaky traps out in the woods, or else Christmas might never come! Let us hope Santa can return to the North Pole in time for Christmas...
 
